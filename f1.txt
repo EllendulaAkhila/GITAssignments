@@ -1,1 +1,4 @@
 Hello Good Afternoon everyone!
+Welcome to GIT session Day 2
+ a)What is the difference between git clone and git pull
+ b)git clone vs git remote add
